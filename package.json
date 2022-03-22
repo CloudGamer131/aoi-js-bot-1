@@ -1,0 +1,22 @@
+{
+  "name": "aoi-js-bot-1",
+  "version": "0.0.1",
+  "description": "A Discord bot made in aoi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard.git"
+  },
+  "keywords": [
+    "aoi-js"
+  ],
+  "author": "Seen Development | Bot Coder = CloudGamer131#7316",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard/issues"
+  },
+  "homepage": "https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard#readme"
+}
