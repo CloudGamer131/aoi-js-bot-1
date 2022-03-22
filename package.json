@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard.git"
+    "url": "git+https://github.com/CloudGamer131/aoi-js-bot-1.git"
   },
   "keywords": [
     "aoi-js"
@@ -16,7 +16,7 @@
   "author": "Seen Development | Bot Coder = CloudGamer131#7316",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard/issues"
+    "url": "https: //github.com/CloudGamer131/aoi-js-bot-1/issuses"
   },
-  "homepage": "https://github.com/CloudGamer131/Aoi.jsbot-with-dashboard#readme"
+  "homepage": "https://github.com/CloudGamer131/aoi-js-bot-1#readme"
 }
